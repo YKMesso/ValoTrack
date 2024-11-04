@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d62e3c-222d-475e-870a-7e287923560b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/blog-home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/blog-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/portfolio-item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/portfolio-overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pricing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValoTrack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ValoTrack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +46,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2n7zUgoi0JVl7I1TyUR9YEoVFsQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,25 +57,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Node.js.index.js.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/messo/Documents/GitHub/ValoTrack",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "C:/Users/messo/AppData/Roaming/JetBrains/IntelliJIdea2024.2/node/versions/22.11.0/node",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;unverified&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/messo/Documents/GitHub/ValoTrack&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/messo/AppData/Roaming/JetBrains/IntelliJIdea2024.2/node/versions/22.11.0/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\B00142467\intelliJ\FinalYearProject\FYP\ValoTrack\src\app" />
@@ -91,6 +109,7 @@
       <workItem from="1728907323299" duration="1927000" />
       <workItem from="1728917280916" duration="836000" />
       <workItem from="1730562053880" duration="1741000" />
+      <workItem from="1730665033023" duration="807000" />
     </task>
     <servers />
   </component>
