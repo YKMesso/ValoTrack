@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title>Player Stats</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .player { margin-bottom: 20px; border: 1px solid #ccc; padding: 10px; border-radius: 5px; }
+        .player h2 { margin: 0 0 10px; }
+        .player a { color: blue; text-decoration: none; }
+    </style>
+</head>
+<body>
+<h1>Player Stats</h1>
+${players.map(player => `
+<div class="player">
+    <h2><a href="${player.player_link}" target="_blank">${player.player_name}</a> - ${player.player_team_initials}</h2>
+    <p>Country: ${player.player_country_initials}</p>
+    <p>Rounds Played: ${player.rounds_played}</p>
+    <p>Rating: ${player.rating}</p>
+    <p>ACS: ${player.acs}</p>
+    <p>K/D Ratio: ${player.kills_deaths}</p>
+    <p>KAST %: ${player.kast_percentage}</p>
+    <p>Average Damage/Round: ${player.average_damage_per_round}</p>
+    <p>Kills/Round: ${player.kills_per_round}</p>
+    <p>Assists/Round: ${player.assists_per_round}</p>
+    <p>First Kills/Round: ${player.first_kills_per_round}</p>
+    <p>First Deaths/Round: ${player.first_deaths_per_round}</p>
+    <p>HS %: ${player.hs_percentage}</p>
+    <p>Clutch Success %: ${player.clutch_success_percentage}</p>
+    <p>Max Kills in Single Map: ${player.max_kills_in_single_map}</p>
+    <p>Total Kills: ${player.kills}</p>
+    <p>Total Deaths: ${player.deaths}</p>
+</div>
+`).join("")}
+</body>
+</html>
