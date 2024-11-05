@@ -91,6 +91,22 @@
   }
 }
 
+.backgroundImageDiv {
+  background-image: url('../img/vlrbg.gif'); /* Adjust the path as necessary */
+  background-size: cover;
+  background-position: center;
+  padding: 70px; /* Adjust padding as needed */
+}
+
+.margin {
+  margin-top: 85px;
+  margin-bottom: 80px;
+}
+
+#headerText {
+  color: white;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);

@@ -5,24 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d62e3c-222d-475e-870a-7e287923560b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/blog-home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/blog-post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/faq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/portfolio-item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/portfolio-overview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/pricing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/img/d4u.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/img/vlrbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/sample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ValoTrack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ValoTrack.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +38,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YKMesso&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YKMesso/ValoTrack.git&quot;,
+    &quot;accountId&quot;: &quot;120d7f78-aa9d-4e73-b502-92987e47606f&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -60,13 +67,17 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JavaScript Debug.sample.html.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;unverified&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.11.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.8.7&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/messo/Documents/GitHub/ValoTrack&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/messo/Documents/GitHub/ValoTrack/src/app/img&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -78,9 +89,26 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\B00142467\intelliJ\FinalYearProject\FYP\ValoTrack\src\app" />
     </key>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="sample.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ValoTrack/src/app/sample.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/index.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="JavaScript Debug.sample.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -110,6 +138,9 @@
       <workItem from="1728917280916" duration="836000" />
       <workItem from="1730562053880" duration="1741000" />
       <workItem from="1730665033023" duration="807000" />
+      <workItem from="1730750435018" duration="875000" />
+      <workItem from="1730760045347" duration="17334000" />
+      <workItem from="1730818254881" duration="3584000" />
     </task>
     <servers />
   </component>
