@@ -5,19 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d62e3c-222d-475e-870a-7e287923560b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/img/d4u.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/img/vlrbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/sample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/players/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/models/players.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/scripts/scrapePlayers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/scripts/scrapeTeams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/stats/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/stats/stats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/util/db.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/blog-home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/blog-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/portfolio-item.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/portfolio-item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/portfolio-overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/portfolio-overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +62,10 @@
     &quot;accountId&quot;: &quot;120d7f78-aa9d-4e73-b502-92987e47606f&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/node_modules/next/dist/server/app-render/work-unit-async-storage.external.d.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/node_modules/react-dom/client.js" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -77,7 +93,7 @@
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.11.0&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.8.7&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/messo/Documents/GitHub/ValoTrack/src/app/img&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/messo/intelliJ/TextParser&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -93,14 +109,18 @@
       <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\B00142467\intelliJ\FinalYearProject\FYP\ValoTrack\src\app" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\html" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\api\players" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\pages" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\stats" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
-    <configuration name="sample.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ValoTrack/src/app/sample.html" useBuiltInWebServerPort="true">
+    <configuration name="sample.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ValoTrack/src/app/html/sample.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/index.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/app/index.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -141,6 +161,20 @@
       <workItem from="1730750435018" duration="875000" />
       <workItem from="1730760045347" duration="17334000" />
       <workItem from="1730818254881" duration="3584000" />
+      <workItem from="1730860617987" duration="17000" />
+      <workItem from="1731362625053" duration="3579000" />
+      <workItem from="1731369683425" duration="8617000" />
+      <workItem from="1731411784751" duration="624000" />
+      <workItem from="1732373741609" duration="661000" />
+      <workItem from="1732480870239" duration="738000" />
+      <workItem from="1732484562979" duration="84000" />
+      <workItem from="1732582219368" duration="12840000" />
+      <workItem from="1732620815423" duration="2550000" />
+      <workItem from="1732623881678" duration="39000" />
+      <workItem from="1732631823006" duration="1724000" />
+      <workItem from="1732633605032" duration="3481000" />
+      <workItem from="1732642462563" duration="7580000" />
+      <workItem from="1732746591896" duration="5481000" />
     </task>
     <servers />
   </component>
