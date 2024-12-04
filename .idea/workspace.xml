@@ -5,31 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d62e3c-222d-475e-870a-7e287923560b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/api/players/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/models/players.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/scripts/scrapePlayers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/scripts/scrapeTeams.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/server/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/stats/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/stats/stats.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/util/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/regions/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/teams/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/models/regions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/models/teams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/scripts/scrapeRegions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/teams/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/teams/teams.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/blog-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/blog-home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/blog-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/blog-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/players/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/players/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/models/players.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/models/players.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/portfolio-item.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/portfolio-item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/portfolio-overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/portfolio-overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/sample.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/scripts/scrapePlayers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/scripts/scrapePlayers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/scripts/scrapeTeams.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/scripts/scrapeTeams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/server/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +57,13 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/node_modules/next/dist/server/app-render/work-unit-async-storage.external.d.ts" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/node_modules/react-dom/client.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/app/api/players/route.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -175,6 +171,16 @@
       <workItem from="1732633605032" duration="3481000" />
       <workItem from="1732642462563" duration="7580000" />
       <workItem from="1732746591896" duration="5481000" />
+      <workItem from="1732757746011" duration="547000" />
+      <workItem from="1732892789348" duration="9389000" />
+      <workItem from="1733012590802" duration="4395000" />
+      <workItem from="1733020923165" duration="415000" />
+      <workItem from="1733086212487" duration="1881000" />
+      <workItem from="1733176852808" duration="1010000" />
+      <workItem from="1733178178456" duration="697000" />
+      <workItem from="1733182258602" duration="1544000" />
+      <workItem from="1733193147166" duration="3196000" />
+      <workItem from="1733236288984" duration="1907000" />
     </task>
     <servers />
   </component>
