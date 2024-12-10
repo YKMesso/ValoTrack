@@ -5,19 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d62e3c-222d-475e-870a-7e287923560b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/img/d4u.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/img/vlrbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/sample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/login/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/register/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/img/vtklogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/users/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/users/register/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/players/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/players/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/regions/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/regions/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/teams/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/teams/route.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/header/navBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/header/navBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/models/players.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/models/players.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/models/regions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/models/regions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/models/teams.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/models/teams.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/scripts/scrapeRegions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/scripts/scrapeRegions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/scripts/scrapeTeams.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/scripts/scrapeTeams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/teams/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/teams/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/teams/teams.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/teams/teams.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +60,16 @@
     &quot;accountId&quot;: &quot;120d7f78-aa9d-4e73-b502-92987e47606f&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/node_modules/next/dist/server/app-render/work-unit-async-storage.external.d.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/node_modules/react-dom/client.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/app/api/players/route.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -93,14 +111,18 @@
       <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\B00142467\intelliJ\FinalYearProject\FYP\ValoTrack\src\app" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\users\register" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\html" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\api\players" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\pages" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
-    <configuration name="sample.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ValoTrack/src/app/sample.html" useBuiltInWebServerPort="true">
+    <configuration name="sample.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ValoTrack/src/app/html/sample.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/index.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/app/index.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -141,6 +163,36 @@
       <workItem from="1730750435018" duration="875000" />
       <workItem from="1730760045347" duration="17334000" />
       <workItem from="1730818254881" duration="3584000" />
+      <workItem from="1730860617987" duration="17000" />
+      <workItem from="1731362625053" duration="3579000" />
+      <workItem from="1731369683425" duration="8617000" />
+      <workItem from="1731411784751" duration="624000" />
+      <workItem from="1732373741609" duration="661000" />
+      <workItem from="1732480870239" duration="738000" />
+      <workItem from="1732484562979" duration="84000" />
+      <workItem from="1732582219368" duration="12840000" />
+      <workItem from="1732620815423" duration="2550000" />
+      <workItem from="1732623881678" duration="39000" />
+      <workItem from="1732631823006" duration="1724000" />
+      <workItem from="1732633605032" duration="3481000" />
+      <workItem from="1732642462563" duration="7580000" />
+      <workItem from="1732746591896" duration="5481000" />
+      <workItem from="1732757746011" duration="547000" />
+      <workItem from="1732892789348" duration="9389000" />
+      <workItem from="1733012590802" duration="4395000" />
+      <workItem from="1733020923165" duration="415000" />
+      <workItem from="1733086212487" duration="1881000" />
+      <workItem from="1733176852808" duration="1010000" />
+      <workItem from="1733178178456" duration="697000" />
+      <workItem from="1733182258602" duration="1544000" />
+      <workItem from="1733193147166" duration="3196000" />
+      <workItem from="1733236288984" duration="1907000" />
+      <workItem from="1733326681323" duration="73000" />
+      <workItem from="1733602565316" duration="13548000" />
+      <workItem from="1733655452469" duration="5755000" />
+      <workItem from="1733731344639" duration="7360000" />
+      <workItem from="1733790905762" duration="18715000" />
+      <workItem from="1733841418963" duration="10894000" />
     </task>
     <servers />
   </component>
