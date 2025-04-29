@@ -5,14 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d62e3c-222d-475e-870a-7e287923560b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/api/matchDetails/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/matchResults/[id]/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/matchResults/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/matches/[id]/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/matches/matchResults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/models/matchDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/models/matchResults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/scripts/scrapeMatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/scripts/scrapeMatchResults.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/players/[id]/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/players/[id]/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/teams/[id]/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/teams/[id]/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/matches/matches.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/matches/matches.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/matches/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/matches/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/models/matches.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/models/matches.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/scripts/scrapeUpcomingMatches.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/scripts/scrapeUpcomingMatches.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/stats/[id]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/stats/[id]/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/stats/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/stats/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/teams/[id]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/teams/[id]/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/users/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/users/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/users/register/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/users/register/page.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,11 +109,11 @@
       <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\api\matchResults\[id]" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\api\matchDetails\[id]" />
       <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\users\register" />
       <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app" />
       <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\html" />
-      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\api\players" />
-      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\pages" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
@@ -192,7 +205,16 @@
       <workItem from="1741116526615" duration="1460000" />
       <workItem from="1742742441986" duration="7154000" />
       <workItem from="1742757121436" duration="15725000" />
-      <workItem from="1742814479575" duration="2991000" />
+      <workItem from="1742814479575" duration="3023000" />
+      <workItem from="1745110180644" duration="794000" />
+      <workItem from="1745243777024" duration="605000" />
+      <workItem from="1745459768295" duration="9129000" />
+      <workItem from="1745529608984" duration="1708000" />
+      <workItem from="1745537952967" duration="16884000" />
+      <workItem from="1745643396871" duration="4023000" />
+      <workItem from="1745721687843" duration="50080000" />
+      <workItem from="1745869355220" duration="15041000" />
+      <workItem from="1745934622422" duration="2990000" />
     </task>
     <servers />
   </component>
@@ -201,5 +223,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/index.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
