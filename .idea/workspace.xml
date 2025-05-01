@@ -5,27 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d62e3c-222d-475e-870a-7e287923560b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/api/matchDetails/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/matchResults/[id]/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/matchResults/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/matches/[id]/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/matches/matchResults.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/models/matchDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/models/matchResults.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/scripts/scrapeMatch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/scripts/scrapeMatchResults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/__tests__/scrapeTeams.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/__tests__/scrapeUpcomingMatches.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/auth/[...nextauth]/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/checkUsername/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/favourites/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sessionWrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/favourite/match/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/favourite/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/favourite/player/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/authOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/models/favourites.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/models/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/api/players/[id]/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/players/[id]/route.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/api/teams/[id]/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/teams/[id]/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/register/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/register/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/matches/matchResults.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/matches/matchResults.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/matches/matches.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/matches/matches.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/matches/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/matches/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/models/matches.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/models/matches.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/scripts/scrapeUpcomingMatches.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/scripts/scrapeUpcomingMatches.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/scripts/scrapeTeams.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/scripts/scrapeTeams.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/stats/[id]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/stats/[id]/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/teams/[id]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/teams/[id]/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/teams/teams.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/teams/teams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/users/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/users/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/users/register/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/users/register/page.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +77,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -104,16 +114,21 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\messo\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="39cbd8e4-2aac-4635-86ba-e64c41b53772" reportId="ValoTrack/qodana/2025-05-01" />
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src" />
+      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app" />
       <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\api\matchResults\[id]" />
       <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\api\matchDetails\[id]" />
-      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\users\register" />
-      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app" />
-      <recent name="C:\Users\messo\Documents\GitHub\ValoTrack\src\app\html" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.index.js">
@@ -215,6 +230,10 @@
       <workItem from="1745721687843" duration="50080000" />
       <workItem from="1745869355220" duration="15041000" />
       <workItem from="1745934622422" duration="2990000" />
+      <workItem from="1746007443844" duration="38669000" />
+      <workItem from="1746090916661" duration="906000" />
+      <workItem from="1746092402710" duration="168000" />
+      <workItem from="1746092585023" duration="4956000" />
     </task>
     <servers />
   </component>
@@ -223,16 +242,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/app/index.js</url>
-          <line>9</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
